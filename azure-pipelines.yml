@@ -4,8 +4,7 @@ trigger:
 pr:
 - main
 
-pool:
-  vmImage: ubuntu-latest
+
 
 jobs:
 - job: Prisma_Cloud_Job
