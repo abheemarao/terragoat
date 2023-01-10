@@ -1,11 +1,3 @@
-trigger:
-- main
-
-pr:
-- main
-
-
-
 jobs:
 - job: Prisma_Cloud_Job
   displayName: Prisma Cloud Job
